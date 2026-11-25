@@ -139,7 +139,6 @@
       <img src="https://img.shields.io/badge/Arduino-0F3350?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
       <img src="https://img.shields.io/badge/Raspberry%20Pi-0F3350?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
       <img src="https://img.shields.io/badge/Zynq%20SoC-0F3350?style=for-the-badge&logo=xilinx&logoColor=white" alt="Zynq SoC"/>
-      <img src="https://img.shields.io/badge/STM32-0F3350?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
       <img src="https://img.shields.io/badge/Pozyx%20UWB-0F3350?style=for-the-badge" alt="Pozyx UWB"/>
       <img src="https://img.shields.io/badge/MPU--6050%20IMU-0F3350?style=for-the-badge" alt="MPU-6050 IMU"/>
     </td>

@@ -5,7 +5,6 @@
 - 🛠️ **10 years of building:** from enterprise software to embedded systems to AI on vehicles
 - 🔭 **Now:** TinyML on microcontrollers, a home sensor agent, PhD on model reliability
 - 🌱 **Learning:** TensorRT, event streaming, LLM agents
-- 💬 **Ask me about:** Kalman filters, deploying detectors on embedded GPUs, Linux internals
 
 ## Tech stack
 

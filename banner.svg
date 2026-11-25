@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" width="680" height="260" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="680" height="260" rx="12" fill="#0F3350"/>
+<text x="28" y="48" fill="#FFFFFF" font-size="26" font-weight="600">Avinaash Manoharan</text>
+<rect x="28" y="60" width="70" height="3" fill="#17877A"/>
+<text x="28" y="86" fill="#B3C6D6" font-size="14">Perception that leaves the lab</text>
+<text x="28" y="106" fill="#B3C6D6" font-size="14">and runs on real hardware</text>
+<text x="28" y="140" fill="#5DCAA5" font-size="11">DLR · WACV 2027 · PhD Oldenburg</text>
+<rect x="318" y="16" width="340" height="140" rx="6" fill="#0A2740" stroke="#17877A" stroke-width="0.8"/>
+<circle cx="332" cy="29" r="3.5" fill="#F0997B"/><circle cx="344" cy="29" r="3.5" fill="#EF9F27"/><circle cx="356" cy="29" r="3.5" fill="#5DCAA5"/>
+<text x="648" y="32" fill="#B3C6D6" font-size="10" font-family="Consolas, Menlo, monospace" text-anchor="end">avinaash@skills ~ 115200 baud</text>
+<line x1="318" y1="40" x2="658" y2="40" stroke="#17877A" stroke-width="0.5"/>
+<g font-family="Consolas, Menlo, monospace" font-size="12">
+<text x="330" y="62" fill="#5DCAA5" opacity="1">$ cat perception<animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.0980;0.0985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="1">perception<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0060;0.0065;0.0980;0.0985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="1">&gt; object detection on real vehicle data<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0120;0.0125;0.0980;0.0985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="1">&gt; pose estimation from fiducial markers<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0200;0.0205;0.0980;0.0985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="1">&gt; benchmarking across public datasets<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0280;0.0285;0.0980;0.0985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat uncertainty_reliability<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1000;0.1005;0.1980;0.1985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">uncertainty &amp; reliability<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1060;0.1065;0.1980;0.1985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; label-free monitoring of deployed models<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1120;0.1125;0.1980;0.1985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; out-of-distribution and uncertainty research<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1200;0.1205;0.1980;0.1985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; robust estimation, honest metrics<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1280;0.1285;0.1980;0.1985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat observers_sensor_fusion<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2000;0.2005;0.2980;0.2985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">observers &amp; sensor fusion<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2060;0.2065;0.2980;0.2985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; state estimation from noisy sensors<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2120;0.2125;0.2980;0.2985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; radio and inertial positioning<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2200;0.2205;0.2980;0.2985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; signal processing and filtering<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2280;0.2285;0.2980;0.2985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat control<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3000;0.3005;0.3980;0.3985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">control<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3060;0.3065;0.3980;0.3985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; feedback controllers, PI to LQR<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3120;0.3125;0.3980;0.3985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; multivariable plants<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3200;0.3205;0.3980;0.3985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; control in simulated environments<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3280;0.3285;0.3980;0.3985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat edge_AI<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4000;0.4005;0.4980;0.4985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">edge AI<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4060;0.4065;0.4980;0.4985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; models on embedded GPUs<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4120;0.4125;0.4980;0.4985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; export, acceleration, latency budgets<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4200;0.4205;0.4980;0.4985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; exploring tiny models on microcontrollers<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4280;0.4285;0.4980;0.4985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat real-time_embedded_systems<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5000;0.5005;0.5980;0.5985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">real-time embedded systems<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5060;0.5065;0.5980;0.5985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; C and C++ close to the hardware<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5120;0.5125;0.5980;0.5985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; threads, RTOS, bus protocols<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5200;0.5205;0.5980;0.5985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; profiling on target<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5280;0.5285;0.5980;0.5985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat virtualization_MLOps<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6000;0.6005;0.6980;0.6985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">virtualization &amp; MLOps<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6060;0.6065;0.6980;0.6985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; containers and orchestration<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6120;0.6125;0.6980;0.6985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; CI/CD with zero-downtime rollout<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6200;0.6205;0.6980;0.6985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; shadow mode next to production<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6280;0.6285;0.6980;0.6985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat distributed_communication<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7000;0.7005;0.7980;0.7985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">distributed communication<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7060;0.7065;0.7980;0.7985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; robot middleware and messaging<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7120;0.7125;0.7980;0.7985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; sockets, multicast, pub/sub<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7200;0.7205;0.7980;0.7985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; inter-process pipelines<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7280;0.7285;0.7980;0.7985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat simulation_synthetic_data<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8000;0.8005;0.8980;0.8985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">simulation &amp; synthetic data<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8060;0.8065;0.8980;0.8985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; simulators for ground truth<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8120;0.8125;0.8980;0.8985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; synthetic training data<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8200;0.8205;0.8980;0.8985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; model-based design<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8280;0.8285;0.8980;0.8985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="62" fill="#5DCAA5" opacity="0">$ cat research_leadership<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.9000;0.9005;0.9980;0.9985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="330" y="84" fill="#FFFFFF" opacity="0">research &amp; leadership<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.9060;0.9065;0.9980;0.9985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="106" fill="#B3C6D6" opacity="0">&gt; peer-reviewed publication<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.9120;0.9125;0.9980;0.9985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="124" fill="#B3C6D6" opacity="0">&gt; technical lead in an EU project<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.9200;0.9205;0.9980;0.9985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+<text x="342" y="142" fill="#B3C6D6" opacity="0">&gt; supervising students<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.9280;0.9285;0.9980;0.9985;1.0000" dur="40s" repeatCount="indefinite"/></text>
+</g>
+<path id="tr" d="M20 205 H660" stroke="#17877A" stroke-width="1.5"/>
+<g fill="#0A2740" stroke="#5DCAA5"><circle cx="85" cy="205" r="6"/><circle cx="195" cy="205" r="6"/><circle cx="305" cy="205" r="6"/><circle cx="415" cy="205" r="6"/><circle cx="525" cy="205" r="6"/><circle cx="625" cy="205" r="6"/></g>
+<g fill="#5DCAA5" font-size="12" text-anchor="middle"><text x="85" y="186">sense</text><text x="195" y="186">estimate</text><text x="305" y="186">control</text><text x="415" y="186">perceive</text><text x="525" y="186">deploy</text><text x="625" y="186">trust</text></g>
+<g fill="#B3C6D6" font-size="11" text-anchor="middle"><text x="85" y="232">sensors, buses</text><text x="195" y="232">observers</text><text x="305" y="232">control loops</text><text x="415" y="232">vision</text><text x="525" y="232">edge, containers</text><text x="625" y="232">monitoring</text></g>
+<circle r="4" fill="#FFFFFF"><animateMotion dur="6s" repeatCount="indefinite" path="M20 205 H660"/></circle>
+</svg>

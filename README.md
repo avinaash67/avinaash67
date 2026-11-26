@@ -178,7 +178,7 @@
 
 ## git log
 
-```
+<!-- ```
 * 2026  feat: PhD on label-free failure surfacing, CCS at WACV 2027
 * 2023  feat: technical lead, EU project EcoMobility (DLR)
 * 2022  feat: detectors on vehicle computers, CI/CD on Kubernetes (DLR)
@@ -186,7 +186,9 @@
 * 2020  perf: tracing a vision app on embedded Linux (Inchron)
 * 2018  feat: Master's in Embedded Systems Design, ESP32 control (BIBA)
 * 2016  init: software developer, automation tooling (Cognizant)
-```
+``` -->
+
+<p align="center"><img src="gitlog.svg" width="100%" alt="git log: 2016 Cognizant to 2026 PhD and WACV 2027"/></p>
 
 <p align="center">
   Tamil · English · German B1 &nbsp;|&nbsp;
